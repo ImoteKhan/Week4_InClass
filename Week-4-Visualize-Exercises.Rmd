@@ -16,7 +16,6 @@ library(tidyverse)
 - John Tukey was a great man
 
 ```{r}
-
 mpg
 ```
 
